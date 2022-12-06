@@ -21,9 +21,7 @@ Aspiring data analyst seeking internship opportunities
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Participating member of the Data Science Society
- 
 - Currently active in an R language bootcamp offered by the Data Science Society
-
 - 3.94 GPA
 
 ## Projects
@@ -42,7 +40,6 @@ lower. affecting the score. Co-created the classes, functions, methods, and docu
 
 __Western Governors University__, Enrollment Counselor, February 2020 – September 2022
 - Generated $120,000 in tuition during tenure
-
 - Enrolled upwards of 25 students in higher education
 
 ## Service
@@ -50,7 +47,6 @@ __Western Governors University__, Enrollment Counselor, February 2020 – Septem
 `2023-2025`
 __Service Missionary__, Buenos Aires, Argentina 2020-2022
 - Led the training of 20+ volunteers for 6 months
-
 - Taught an average of 5 individuals a week on how to achieve greater fulfillment through discipline
 
 
