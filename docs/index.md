@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.94 GPA
 
 ## Projects
-- Utilized Python pandas, and scikit learn (machine learning) to predict with 90% accuracy whether or not a home was built before 1980
+- Utilized Python pandas, and scikit learn (machine learning) to predict with 90% accuracy whether or not a home was built before 1980 using data on the homes
 &nbsp;
 - Employed Python and libraries such as Altair/Pandas to graph the popularity of names over time
 &nbsp;
