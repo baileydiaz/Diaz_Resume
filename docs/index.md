@@ -33,8 +33,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 corresponded to each. Information was stored and queried from the database as required. For example, one
 could see a student’s information, their courses, the term the classes were being taken, and the professor
 &nbsp;
-- Created a simple game in C# that allowed a user to draw a card and guess whether the next would be higher or
-lower. affecting the score. Co-created the classes, functions, methods, and documentation for the project. 
+- Created a game in C# that allows the user to control a "snake" that grows when fruit is eaten.  The snake continually grows and the objective to to survive as long as possible. Used classes, functions, methods, and created the documentation for the project. 
 
 ## Work Experience 
 
