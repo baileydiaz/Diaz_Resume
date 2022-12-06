@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Projects
 - Utilized Python pandas, and scikit learn (machine learning) to predict with 90% accuracy whether or not a home was built before 1980
 &nbsp;
-- Utilized Python and libraries such as Altair/Pandas to graph the popularity of names over time
+- Employed Python and libraries such as Altair/Pandas to graph the popularity of names over time
 &nbsp;
 - Designed a relational database in MySQL that held student, faculty, course information and what information
 corresponded to each. Information was stored and queried from the database as required. For example, one
