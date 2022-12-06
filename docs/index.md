@@ -1,84 +1,57 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Bailey Diaz's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Bailey Diaz
+Aspiring data analyst seeking internship opportunities
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="baileydiaz10@gmail.com">baileydiaz10@gmail.com</a>
+| <a href="https://byuidatascience.github.io/">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/bailey-diaz/">LinkedIn</a>
+| <a href="https://github.com/baileydiaz/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Participating member of the Data Science Society
+ 
+- Currently active in an R language bootcamp offered by the Data Science Society
 
+- 3.94 GPA
 
-## Related Experience
+## Projects
+- Utilized Python pandas, and scikit learn (machine learning) to predict with 90% accuracy whether or not a home was built before 1980
+&nbsp;
+- Utilized Python and libraries such as Altair/Pandas to graph the popularity of names over time
+&nbsp;
+- Designed a relational database in MySQL that held student, faculty, course information and what information
+corresponded to each. Information was stored and queried from the database as required. For example, one
+could see a student’s information, their courses, the term the classes were being taken, and the professor
+&nbsp;
+- Created a simple game in C# that allowed a user to draw a card and guess whether the next would be higher or
+lower. affecting the score. Co-created the classes, functions, methods, and documentation for the project. 
 
-### Internships
+## Work Experience 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Western Governors University__, Enrollment Counselor, February 2020 – September 2022
+- Generated $120,000 in tuition during tenure
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Enrolled upwards of 25 students in higher education
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
+## Service
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Buenos Aires, Argentina 2020-2022
+- Led the training of 20+ volunteers for 6 months
+
+- Taught an average of 5 individuals a week on how to achieve greater fulfillment through discipline
 
 
 
