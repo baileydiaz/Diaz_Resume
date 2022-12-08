@@ -16,7 +16,7 @@ Aspiring data analyst seeking internship opportunities
 
 ## Education
 
-
+#you could include the degree you are seeking here
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
